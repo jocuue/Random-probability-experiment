@@ -24,7 +24,7 @@ while playing:
         turns_with_number += 1
     if attempts >= maximum:
         playing = False
-print(f"Your number has shown {turns_with_number} times, within the interval 0 and 100, {attempts} attempts.")
+print(f"Your number has shown {turns_with_number} times, within the interval 0 and 100, in {attempts} attempts.")
 
 
 
